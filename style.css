@@ -1,0 +1,220 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+}
+
+.box{
+ position: relative;
+  height: 3rem;
+  background-color: 	transparent;
+  margin-left: 02rem;
+  margin-right: 02rem;
+  
+ border-color: red;
+  border-bottom-right-radius: 18px solid red;
+  border-bottom-left-radius: 2rem ;
+  border-bottom-right-radius: 2rem;
+
+  
+}
+
+.IMG{
+width: 15%;
+margin: 05px;
+margin-left: 2rem;
+
+}
+.UL{
+  float: right;
+  color: white ;
+  list-style-type: none
+  ;
+  display: flex;
+  margin-right: 5rem;
+ position: relative;
+
+}
+
+.UL li{
+ margin-top: 1rem;
+ margin-right: 1.5rem;
+display: inline-block;
+text-decoration: none;
+font-size: small;
+  
+}
+
+.UL li a{
+  text-decoration: none;
+  color: orange;
+  text-transform: uppercase;
+
+ 
+  
+}
+
+.UL li a:hover{
+  color: green;
+  height: 2rem;
+  width: 1rem;
+  
+
+}
+
+.photo-1-header{
+  float: right;
+  width: 40%;
+  margin-right: 3rem;
+}
+.slider-text{
+  
+
+}
+.h1-top{
+  margin-top: 4rem;
+  margin-left: 4rem;
+  font-size: x-large;
+  
+}
+
+.earth{
+  color: green;
+}
+
+.bottom-1{
+  font-size: x-large;
+  margin-left: 4rem;
+color: green;
+
+}
+
+.p-1{
+  margin-left: 4rem; 
+  margin-top: 3rem;
+  color: grey;
+  
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: green;
+  font-size: 20px;
+  background: #fcfcfc;
+  padding: 10px 20px 10px 20px;
+  border: solid #1641f0 2px;
+  text-decoration: none;
+  width: 15%;
+  margin-top: 3rem;
+  margin-left: 4rem;
+}
+
+.btn:hover {
+  background: orange;
+  text-decoration: none;
+}
+.container-3{
+  background-color: hsl(0, 7%, 94%);
+  margin-top: 3rem;
+  padding-bottom: 02px;
+}
+.our-product{
+  text-align: center; 
+  margin-top: 12rem;
+  color: orange;
+ position: relative;
+ padding-top: 2rem;
+ 
+  
+}
+.p{
+  text-align: center;
+  width: 70%;
+  margin: auto;
+  margin-top: 2rem;
+  
+  
+}
+
+.our-product-specificatio-3-{
+ 
+ display: flex;
+ margin: 2rem;
+ 
+}
+
+
+
+.product-1{
+  
+  border: 3px solid black;
+  height: 25rem;
+  width: 20rem;
+  margin-left: 3.5rem;
+}
+
+.product-2{
+  border: 3px solid black;
+  height: 25rem;
+  width: 20rem;
+  margin-left: 3rem;
+}
+
+.product-3{
+  border: 3px solid black;
+  height: 25rem;
+  width: 20rem;
+  margin-left: 3rem;
+
+}
+
+.container-2{
+margin: 2rem;
+}
+
+.world-leader{
+  width: 70%;
+  text-align: center;
+  margin: auto;
+  color: orange;
+}
+
+.charging-ahead{
+  color: grey;
+  text-align: left;
+  margin: 1rem;
+  margin-left:0;
+}
+
+.world-leader
+  margin-top: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.company-overview{
+  text-align: center;
+  
+}
